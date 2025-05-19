@@ -9,7 +9,7 @@ Score tracking
 ---
 
 # Try a demo
-[(You can insert a screenshot here using ![Alt text](screenshot.png) if available)](https://655ad1cf2802f3334f0d66a6--wondrous-praline-79356c.netlify.app/)
+https://655ad1cf2802f3334f0d66a6--wondrous-praline-79356c.netlify.app/
 
 --- 
 # How to Play
